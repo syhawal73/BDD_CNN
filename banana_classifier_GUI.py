@@ -219,7 +219,7 @@ class ImageClassifierApp:
         model = CNNModel(num_classes=6)  # Create an instance of the CNNModel
         model.load_state_dict(
             torch.load(
-                r"C:\Users\syhaw\Downloads\Mega-Project\Models\BDD_CNN_CLAHE_HBOA_Ci6.pth",
+                r"trained_model.pth",
                 map_location="cpu",  # Load the model on CPU
                 weights_only=True
             )

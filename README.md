@@ -22,17 +22,20 @@ Performance Metrics:
 
 Training Loss & Validation Accuracy vs Epochs:
 
-![image](https://github.com/user-attachments/assets/8535752a-4d53-4028-ada8-0f3c9643162b)
+![image](https://github.com/user-attachments/assets/39ea1f89-eb3d-4877-a6bc-83cd4428b9ec)
+
 
 
 Class-wise Accuracy:
 
-![image](https://github.com/user-attachments/assets/20a363c5-6e05-459c-a05c-b91af254481c)
+![image](https://github.com/user-attachments/assets/799d2d84-0d97-4b95-8a79-25891aa2d19f)
+
 
 
 Confusion Matrix HeatMap:
 
-![image](https://github.com/user-attachments/assets/1d642b31-c293-436c-b2e6-90f8f719a156)
+![image](https://github.com/user-attachments/assets/4ed26863-0d4c-403e-843c-b07dc43b7397)
+
 
 
 Outputs:

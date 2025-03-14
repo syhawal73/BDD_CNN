@@ -1,5 +1,5 @@
 # BDD_CNN
-Banana Disease Detection using Rest-Net50 CNN along CLAHE (Contrast Limited Adaptive Histogram Equalization) and HoneyBadger's Algorithm
+Banana Disease Detection using Rest-Net50 CNN along with CLAHE (Contrast Limited Adaptive Histogram Equalization) and HoneyBadger's Algorithm
 
 Datasets:
 
